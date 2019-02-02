@@ -14,3 +14,5 @@ Write programs to read the given file and implement the search by disease, total
 After implementation, compare your programming languages. Your comparison criteria should be set by utilizing knowledge gathered in the course.
 
 Restriction: You are not allowed to change any data or structure of data provided.
+
+## YouTube Link : https://youtu.be/6NVuBSfoob4
